@@ -1,0 +1,59 @@
+{
+	"storyName": "bendy",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Redemption",
+			"bendy-normal",
+			[
+				240,
+				187,
+				91
+			]
+		],
+		[
+			"Upon Us",
+			"bendy",
+			[
+				202,
+				157,
+				62
+			]
+		],
+		[
+			"Insanity",
+			"bendy",
+			[
+				202,
+				157,
+				62
+			]
+		],
+		[
+			"Doomsday Reel",
+			"bendy-angry",
+			[
+				202,
+				157,
+				62
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week Bendy"
+}
